@@ -39,7 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Sailnagale.github.io/News-App",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
